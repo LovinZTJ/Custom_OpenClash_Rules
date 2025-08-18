@@ -1,11 +1,12 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 179
+# TOTAL: 186
 
 payload:
   - '*quickconnect*'
   - '*synology*'
+  - '+.03241119.xyz'
   - '+.112114.xyz'
   - '+.1996999.xyz'
   - '+.51wanxue.com'
@@ -94,6 +95,7 @@ payload:
   - '+.hub.rat.dev'
   - '+.hub.xdark.top'
   - '+.huikao8.com'
+  - '+.hwbim.com'
   - '+.icvcs.com'
   - '+.ifconfig.co'
   - '+.igpsport.com'
@@ -101,6 +103,7 @@ payload:
   - '+.ip6.seeip.org'
   - '+.ipapi.co'
   - '+.ipinfo.io'
+  - '+.istoreos.com'
   - '+.jsdelivr.net'
   - '+.jxjktzjt.com'
   - '+.jxpp.com'
@@ -123,6 +126,7 @@ payload:
   - '+.mtaokj.com'
   - '+.myshopex.com'
   - '+.nn.ci'
+  - '+.onebuygz.com'
   - '+.ottai.com'
   - '+.plusde1.younoyes.com'
   - '+.plushk1.younoyes.com'
@@ -164,6 +168,7 @@ payload:
   - '+.vclbroker.com'
   - '+.vclbrokers.com'
   - '+.vcltrade.com'
+  - '+.vgogbuy.com'
   - '+.warmheart.top'
   - '+.webs.vc'
   - '+.wenyi188.com'
@@ -177,6 +182,8 @@ payload:
   - '+.xn--4kq62z5rby2qupq9ub.top'
   - '+.xopenbeta.com'
   - '+.yiso.fun'
+  - '+.yongyu.xyz'
+  - '+.yooc.me'
   - '+.yunzuoye.net'
   - '+.zeekrline.com'
   - '+.zhongancloud.com'
